@@ -1,0 +1,1 @@
+db_path = 'db/sale_list.db'
